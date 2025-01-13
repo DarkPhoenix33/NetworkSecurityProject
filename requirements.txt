@@ -4,7 +4,7 @@ numpy
 pymongo 
 certifi
 scikit-learn
-pymongo[srv]== 3.6
+pymongo[srv]== 4.10.1
 #dill
 pyaml
 
