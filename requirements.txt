@@ -8,5 +8,10 @@ pymongo[srv]== 4.10.1
 #dill
 pyaml
 mlflow
+dagshub
+fastapi
+uvicorn
+
+
 
 #-e .
